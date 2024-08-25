@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#home {
+    background: url('hero.jpg') no-repeat center center/cover;
+}
+
+#coach-photo {
+    max-width: 200px;
+}
